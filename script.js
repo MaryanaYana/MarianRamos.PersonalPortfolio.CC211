@@ -1,4 +1,3 @@
-
 const contactForm = document.querySelector(".contact-form");
 const feedback = document.querySelector(".form-feedback");
 
